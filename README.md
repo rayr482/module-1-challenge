@@ -1,6 +1,6 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-https://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/UCSD-VIRT-FSF-PT-03-2023-U-LOLC/-/blob/main/01-HTML-Git-CSS/02-Challenge/Assets/01-html-css-git-homework-demo.png
+![image](https://user-images.githubusercontent.com/128929611/229241925-b14ee36c-86e2-4f2c-824d-858f1e5c098f.png)
 
 ## Challenges in This Course
 
